@@ -3,7 +3,7 @@
 -->
 ### Hi there! 👋
 
-#### I am a M.Sc. student at [Computer Engineering department of the Sharif University of Technology (SUT)](http://ce.sharif.edu/).
+#### I am an M.Sc. student at [Computer Engineering department of the Sharif University of Technology (SUT)](http://ce.sharif.edu/).
 
 #### My research interests include, but not limited to:
 
