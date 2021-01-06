@@ -5,12 +5,13 @@
 
 #### I am an M.Sc. student at [Computer Engineering department of the Sharif University of Technology (SUT)](http://ce.sharif.edu/).
 
-#### My research interests include, but not limited to:
+#### My research interests include but not limited to:
 
   *  Pervasive (Edge/Fog/Cloud) Computing
   *  Machine Learning
   *  Computer Vision
   *  Smart Health
+  *  Signal Processing
 
 #### I have participated in several projects during my studies, which have provided me with experience in these areas.
 #### Currently, I am working as a research assistant at the [EASY lab](http://easy.ce.sharif.ir/), under supervision of professor [Maziar Goudarzi](http://sharif.edu/~goudarzi/), where I collaborate on different projects related to my areas of expertise.
