@@ -21,7 +21,7 @@
   
   * Watching and playing basketball :basketball:
   * Reading books and peotries (In Parsi/Persian and English literatures) :book:
-  * Listening to musics :musical_note:
+  * Listening to music :musical_note:
   * And surely, thinking of dreams! :v:
  
  
