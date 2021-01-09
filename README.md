@@ -1,7 +1,7 @@
 <!--
 **nrasadi/nrasadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### Hi there! 👋
+### Hello there! 👋
 
 #### I am an M.Sc. student at [Computer Engineering department of the Sharif University of Technology (SUT)](http://ce.sharif.edu/).
 
