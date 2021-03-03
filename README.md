@@ -3,7 +3,7 @@
 -->
 ### Hello there! 👋
 
-#### I am an M.Sc. student at [Computer Engineering department of the Sharif University of Technology (SUT)](http://ce.sharif.edu/).
+#### I am an M.Sc. student at [the CSE department of Sharif University of Technology (SUT)](http://ce.sharif.edu/).
 
 #### My research interests include but not limited to:
 
@@ -13,8 +13,7 @@
   *  Smart Health
   *  Signal Processing
 
-#### I have participated in several projects during my studies, which have provided me with experience in these areas.
-#### Currently, I am working as a research assistant at the [EASY lab](http://easy.ce.sharif.ir/), under supervision of professor [Maziar Goudarzi](http://sharif.edu/~goudarzi/), where I collaborate on different projects related to my areas of expertise.
+#### Currently, I am a research assistant at [EASY lab](http://easy.ce.sharif.ir/), under the supervision of Professor [Maziar Goudarzi](http://sharif.edu/~goudarzi/), where I collaborate on different projects related to my areas of expertise.
 
 
 #### Besides being a computer engineer/scientist, I have other hobbies too, such as:
@@ -25,4 +24,4 @@
   * And surely, thinking of dreams! :v:
  
  
- ## Make sure you have visited [my personal webpage](https://nrasadi.github.io)
+ #### Make sure to visit [my personal webpage](https://nrasadi.github.io)!
