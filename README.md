@@ -16,7 +16,7 @@ I am an M.Sc. student at [the CSE department of Sharif University of Technology 
 Currently, I am a research assistant at [EASY lab](http://easy.ce.sharif.ir/), under the supervision of Professor [Maziar Goudarzi](http://sharif.edu/~goudarzi/), where I collaborate on different projects related to my areas of expertise.
 
 
-Besides being a computer engineer/scientist, I have other hobbies too, such as:
+Besides being a computer engineer/scientist, some of my other hobbies are:
   
   * Watching and playing basketball :basketball:
   * Reading books and peotries (In Parsi/Persian and English literatures) :book:
