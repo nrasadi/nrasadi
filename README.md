@@ -10,7 +10,7 @@ All kinds of research collaboration are always appreciated, especially those tha
 #### My research interests include but not limited to:
 
   *  ML on Edge / TinyML / MLSys / Distributed ML
-  *  Appllied Machine Learning
+  *  Applied Machine Learning
   *  Computer Vision
   *  Smart Health
   *  Signal Processing
